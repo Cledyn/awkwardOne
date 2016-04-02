@@ -8,8 +8,9 @@
 *.war
 *.ear
 
-#IDE sample folders
-*.idea
+#IDE config
+.idea
+*.iml
 
 #maven target dirs
 target
