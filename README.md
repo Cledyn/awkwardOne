@@ -1,2 +1,2 @@
-# ZTP (Advanced Programmint Techniques)
+# ZTP (Advanced Programming Techniques)
 Projects related to course specified above
